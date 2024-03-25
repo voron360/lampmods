@@ -1207,7 +1207,7 @@
 
     function startPlugin() {
         window.abu_plugin = true;
-        window.abu_localhost = 'https://abu.land/';
+        window.abu_localhost = 'https://mando.watch/';
         var manifst = {
             type: 'video',
             version: '',
